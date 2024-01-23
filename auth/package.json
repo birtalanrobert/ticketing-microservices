@@ -31,6 +31,7 @@
   },
   "devDependencies": {
     "@types/cookie-session": "^2.0.48",
+    "@types/express-validator": "^3.0.0",
     "@types/jest": "^29.5.11",
     "@types/jsonwebtoken": "^9.0.5",
     "@types/supertest": "^6.0.2",
